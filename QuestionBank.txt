@@ -34,3 +34,7 @@ Q33. Calculate the square of each number, filter the number greater than 4 and f
 Q34. Calculate sum of age of employee from the list of employee(name,age)
 Q35. Calculate the sum of numbers from the list of integer.
 Q36. Find out the number of element present in the list.
+Q37. Convert list of lists to single list.
+Q38. Find out list of even and odd numbers from the list of integers(not separately streaming).
+Q39. Given list of strings - "Apple","Banana","Litchi". Return the list in this format- ["Apple","Banana","Litchi"]
+Q40. Convert list to map.
