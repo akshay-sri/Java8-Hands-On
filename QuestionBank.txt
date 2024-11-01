@@ -1,0 +1,36 @@
+Q1.  Check whether the list of integers contain only odd numbers.
+Q2.  Convert integer array to stream.
+Q3.  Calculate average of numbers present in an integer array.
+Q4.  Find the count of each character present in a string.
+Q5.  Check whether the list of integer contain duplicate numbers or not.
+Q6.  Given list of strings, return the concatenation of strings.
+Q7.  Given two streams, return the concatenation as a result.
+Q8.  Given two arrays containing strings.Return the list containing distinct strings.
+Q9.  Given array of strings. Return count of strings starting with first character of every string.
+Q10. Calculate date in this format - "dd-MM-yyyy"
+Q11. Find the duplicate numbers from the list of integers.
+Q12. Find the count of each duplicate number from the list.
+Q13. Classify employee on the basis of age from list of employee objects(name,age).
+Q14. Check whether the list is empty or not.
+Q15. Find out the even numbers from the list.
+Q16. Find out the sum of first 5 numbers from the list.
+Q17. Find out the sum of 5 numbers after first 5 from the list.
+Q18. Find out the first element from the list.
+Q19. Find out the first non-repeated character from the string.
+Q20. Calculate the frequency of each word in a sentence.
+Q21. Convert list of employee to map also removing duplicate objects.
+Q22. Convert list of string to lowercase.
+Q23. Calculate maximum and minimum number from the list.
+Q24. Merge two sorted arrays.
+Q25. Calculate nth highest age from the map of employee(name,age)
+Q26. Find out list of integers that starts with "2" from list of integers.
+Q27. Find out list of pallindromic string from the list of strings.
+Q28. Find out 10 random numbers using stream.
+Q29. Calculate 2nd highest and 2nd lowest number from the list of integers.
+Q30. Given list of strings. Return the list on the basis of length of string.
+Q31. Given list of employee. Return the list on the basis of age.
+Q32. Given list of integers. Return the list in- a> ascending order b> descending order
+Q33. Calculate the square of each number, filter the number greater than 4 and find out the average.
+Q34. Calculate sum of age of employee from the list of employee(name,age)
+Q35. Calculate the sum of numbers from the list of integer.
+Q36. Find out the number of element present in the list.
