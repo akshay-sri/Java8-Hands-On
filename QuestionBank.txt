@@ -38,3 +38,6 @@ Q37. Convert list of lists to single list.
 Q38. Find out list of even and odd numbers from the list of integers(not separately streaming).
 Q39. Given list of strings - "Apple","Banana","Litchi". Return the list in this format- ["Apple","Banana","Litchi"]
 Q40. Convert list to map.
+Q41. Calculate maximum age of each department.
+Q42. Find longest string from the given array of string.
+Q43. Print even and odd numbers using two threads.(remaining)

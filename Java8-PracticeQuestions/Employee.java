@@ -1,9 +1,11 @@
 public class Employee {
     int age;
     String name;
-    public Employee(int age, String name){
+    String dept;
+    public Employee(int age, String name, String dept){
         this.age = age;
         this.name = name;
+        this.dept = dept;
     }
     public String getName(){
         return name;
@@ -11,10 +13,14 @@ public class Employee {
     public int getAge(){
         return age;
     }
+    public String getDept(){
+        return dept;
+    }
     public String toString() {
         return "Employee{" +
                 "name='" + name + '\'' +
-                ", age=" + age +
+                ", age=" + age + '\'' +
+                ", dept=" + dept + '\'' +
                 '}';
     }
 }
