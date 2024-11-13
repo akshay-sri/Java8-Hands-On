@@ -28,16 +28,16 @@ Q27. Find out list of pallindromic string from the list of strings.
 Q28. Find out 10 random numbers using stream.
 Q29. Calculate 2nd highest and 2nd lowest number from the list of integers.
 Q30. Given list of strings. Return the list on the basis of length of string.
-Q31. Given list of employee. Return the list on the basis of age.
-Q32. Given list of integers. Return the list in- a> ascending order b> descending order
-Q33. Calculate the square of each number, filter the number greater than 4 and find out the average.
-Q34. Calculate sum of age of employee from the list of employee(name,age)
-Q35. Calculate the sum of numbers from the list of integer.
-Q36. Find out the number of element present in the list.
-Q37. Convert list of lists to single list.
-Q38. Find out list of even and odd numbers from the list of integers(not separately streaming).
-Q39. Given list of strings - "Apple","Banana","Litchi". Return the list in this format- ["Apple","Banana","Litchi"]
-Q40. Convert list to map.
-Q41. Calculate maximum age of each department.
-Q42. Find longest string from the given array of string.
+Q31. Given list of integers. Return the list in- a> ascending order b> descending order
+Q32. Calculate the square of each number, filter the number greater than 4 and find out the average.
+Q33. Calculate sum of age of employee from the list of employee(name,age)
+Q34. Calculate the sum of numbers from the list of integer.
+Q35. Find out the number of element present in the list.
+Q36. Convert list of lists to single list.
+Q37. Find out list of even and odd numbers from the list of integers(not separately streaming).
+Q38. Given list of strings - "Apple","Banana","Litchi". Return the list in this format- ["Apple","Banana","Litchi"]
+Q39. Convert list of employees to map.
+Q40. Calculate maximum age of each department.
+Q41. Find longest string from the given array of string.
+Q42. Classify employee on the basis of some condition.
 Q43. Print even and odd numbers using two threads.(remaining)
