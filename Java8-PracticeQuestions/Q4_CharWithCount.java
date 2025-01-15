@@ -5,7 +5,7 @@ public class Q4_CharWithCount {
     public static void main(String[] args) {
         String s = "Akshay Srivastava";
         Map<Character,Long> ans = s
-        .chars()
+        .chars() // it returns int stream
         .mapToObj(c->(char) c)
         .collect(Collectors.groupingBy(c->c,Collectors.counting()));
         System.out.println(ans);
