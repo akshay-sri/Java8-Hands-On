@@ -42,4 +42,6 @@ Q41. Find longest string from the given array of string.
 Q42. Classify employee on the basis of some condition.
 Q43. Print even and odd numbers using two threads.
 Q44. Calculate the sum of digits.
-Q45. Check whether the string is pallindrome or not. 
+Q45. Check whether the string is pallindrome or not.
+Q46. Find out the missing number from the list of integers.
+Q47. Capitalize starting character of each word and remaining word remain same.
